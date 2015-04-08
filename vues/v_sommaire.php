@@ -10,6 +10,7 @@
         <ul id="menuList">
 			<li >
 				Bonjour :<br> <br>
+				Mohsan
 				
 				<?php echo $_SESSION['prenom']."  ".$_SESSION['nom']  ?> <br>
 			</li>
